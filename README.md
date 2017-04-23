@@ -4,7 +4,7 @@ Our upcoming Udemy course will teach you all you need to know to create all 2D a
 You're welcome to download, fork or do whatever else legal with all the files!
 
 ## How To Use These Files
-You can download the latest state of this section, or go to **Commits** then download to get our project as it was at the end of any leacture.
+You can download the latest state of this section, or go to **Commits** then download to get our project as it was at the end of any lecture.
 
 ## Lecture List
 Here are the lectures of the course for this section...
@@ -21,4 +21,10 @@ Here are the lectures of the course for this section...
 + Installing GIMP
 + Combining GIMP's Windows
 + Checking your version of GIMP
-+ Challenge 
++ Challenge
+
+### 3_EI_GMP Managing The Interface
++ Quick look around the interface Toolbox | Image | Layers - Brushes
++ Creating a new file
++ Saving your work
++ Challenge.
