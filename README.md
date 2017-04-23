@@ -15,3 +15,10 @@ Here are the lectures of the course for this section...
 + The course is for complete beginners
 + Step-by-step tutorial from zero to hero
 + Battle proven instructors!
+
+### 2_EI_GMP Introduction To Section 1
++ Where to get GIMP from...
++ Installing GIMP
++ Combining GIMP's Windows
++ Checking your version of GIMP
++ Challenge 
