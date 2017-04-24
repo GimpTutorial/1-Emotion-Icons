@@ -21,10 +21,16 @@ Here are the lectures of the course for this section...
 + Installing GIMP
 + Combining GIMP's Windows
 + Checking your version of GIMP
-+ Challenge
++ Challenge.
 
 ### 3_EI_GMP Managing The Interface
 + Quick look around the interface Toolbox | Image | Layers - Brushes
 + Creating a new file
 + Saving your work
++ Challenge.
+
+### 4_EI_GMP Importance Of Silhouettes
++ In this video...
++ What is an image?
++ What is a digital image?
 + Challenge.
