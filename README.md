@@ -23,3 +23,5 @@ Here are the lectures of the course for this section...
 ### 3_EI_GMP Getting GIMP Installed
 + Get GIMP From https://www.gimp.org/
 + Install GIMP
+
+### 4_EI_GMP How To Share & Ask Questions
