@@ -16,3 +16,6 @@ Here are the lectures of the course for this section...
 + Step-by-step tutorial from zero to hero
 + Battle proven instructors!
 + Lots Of Fun :)
+
+
+### 2_EI_GMP Section Introduction
