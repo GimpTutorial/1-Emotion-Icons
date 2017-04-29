@@ -25,3 +25,14 @@ Here are the lectures of the course for this section...
 + Install GIMP
 
 ### 4_EI_GMP How To Share & Ask Questions
+
+
+### 5_EI_GMP Using GIMP At High Resolutions
+
++ Skip if you can see your icons OK
++ For 1440p and higher resolutions
+#### Three main options
++ Lower your resolution
++ Different Themes, designed for HiDPI
++ Edit the registry:
+http://www.danantonielli.com/adobe-app-scaling-on-high-dpi-displays-fix/
