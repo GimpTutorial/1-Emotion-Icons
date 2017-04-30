@@ -44,3 +44,13 @@ http://www.danantonielli.com/adobe-app-scaling-on-high-dpi-displays-fix/
 + Rearranging the interface
 + Resetting the View
 + Challenge: Rebuild Your Workspace
+
+### 7_EI_GMP Black And White Outlines
++ Creating a new image
++ Zooming
++ The Tool Box
++ Modifying your tool using Tool Options
++ Introducing the pencil tool
++ Using the foreground and background colour
++ Saving your work
++ Challenge: 3 Monochrome Images
