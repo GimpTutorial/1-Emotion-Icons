@@ -54,3 +54,12 @@ http://www.danantonielli.com/adobe-app-scaling-on-high-dpi-displays-fix/
 + Using the foreground and background colour
 + Saving your work
 + Challenge: 3 Monochrome Images
+
+### 8_EI_GMP Exporting Your Work
++ What is your image destination?
++ 8x8 is too small for sharing
++ To resample or not to resample
++ Issues with auto upscaling and resampling
++ Workflow for exporting 8x8 in a larger format
++ Our first add-on: BIMP: https://alessandrofrancesconi.it/projects/bimp/
++ Challenge: Export and share your work
