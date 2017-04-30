@@ -36,3 +36,11 @@ Here are the lectures of the course for this section...
 + Different Themes, designed for HiDPI
 + Edit the registry:
 http://www.danantonielli.com/adobe-app-scaling-on-high-dpi-displays-fix/
+
+### 6_EI_GMP Getting Comfortable In GIMP
++ The Spilt Interface
++ Dockable Dialogues
++ Tabs
++ Rearranging the interface
++ Resetting the View
++ Challenge: Rebuild Your Workspace
