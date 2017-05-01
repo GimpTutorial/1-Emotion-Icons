@@ -17,15 +17,14 @@ Here are the lectures of the course for this section...
 + Battle proven instructors!
 + Lots Of Fun :)
 
-
 ### 2_EI_GMP Section Introduction
++ Ben and Mike go through what is happening in Section 1
 
 ### 3_EI_GMP Getting GIMP Installed
 + Get GIMP From https://www.gimp.org/
 + Install GIMP
 
 ### 4_EI_GMP How To Share & Ask Questions
-
 
 ### 5_EI_GMP Using GIMP At High Resolutions
 
@@ -63,3 +62,7 @@ http://www.danantonielli.com/adobe-app-scaling-on-high-dpi-displays-fix/
 + Workflow for exporting 8x8 in a larger format
 + Our first add-on: BIMP: https://alessandrofrancesconi.it/projects/bimp/
 + Challenge: Export and share your work
+
+### 9_EI_GMP Introduction To Value
++ Understanding and using value
++ Challenge: 3-5 Grayscale Images
