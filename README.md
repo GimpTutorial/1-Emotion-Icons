@@ -66,7 +66,6 @@ http://www.danantonielli.com/adobe-app-scaling-on-high-dpi-displays-fix/
 ### 9_EI_GMP Introduction To Value
 + Understanding and using value
 + Challenge: 3-5 Grayscale Images
-
 + Hue Saturation and Value: https://en.wikipedia.org/wiki/HSL_and_HSV​
 
 ### 10_EI_GMP A Splash Of Colour
@@ -74,3 +73,13 @@ http://www.danantonielli.com/adobe-app-scaling-on-high-dpi-displays-fix/
 + Saturation: how much of that colour there is
 + How to pick colour
 + Challenge: A Splash Of Colour
++ https://en.wikipedia.org/wiki/HSL_and_HSV
++ https://en.wikipedia.org/wiki/Color_theory
+
+### 11_EI_GMP End Of Section Challenge
++ End Of Section Challenge
++ Create 16 8x8 Emoticons
++ Use all the tools and techniques you have learnt so far
++ Go, be experimental, be creative and have fun
++ Remember to scale up to 32x32 for sharing
++ Best ones get a guest spot of the forum itself :)
