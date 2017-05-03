@@ -83,3 +83,5 @@ http://www.danantonielli.com/adobe-app-scaling-on-high-dpi-displays-fix/
 + Go, be experimental, be creative and have fun
 + Remember to scale up to 32x32 for sharing
 + Best ones get a guest spot of the forum itself :)
+
+### 12_EI_GMP Section 1 Wrap Up - Congratulations!
