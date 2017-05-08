@@ -67,7 +67,7 @@ http://www.danantonielli.com/adobe-app-scaling-on-high-dpi-displays-fix/
 + Our first add-on: BIMP: https://alessandrofrancesconi.it/projects/bimp/
 + Challenge: Export and share your work
 
-### 9_EI_GMP Introduction To Value
+### 9_EI_GMP Introduction To Value (Update 8/5/17)
 + Understanding and using value
 + Challenge: 3-5 Grayscale Images
 + Hue Saturation and Value: https://en.wikipedia.org/wiki/HSL_and_HSV​
