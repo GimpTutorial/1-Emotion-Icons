@@ -54,6 +54,10 @@ http://www.danantonielli.com/adobe-app-scaling-on-high-dpi-displays-fix/
 + Saving your work
 + Challenge: Draw a smiling face
 
+### 7b_EI_GMP An Outline Story
++ Filling in the background colour
++ Challenge: Create 3 8x8 images
+
 ### 8_EI_GMP Exporting Your Work
 + What is your image destination?
 + 8x8 is too small for sharing
