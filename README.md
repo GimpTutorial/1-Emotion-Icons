@@ -44,7 +44,7 @@ http://www.danantonielli.com/adobe-app-scaling-on-high-dpi-displays-fix/
 + Resetting the View
 + Challenge: Rebuild Your Workspace
 
-### 7_EI_GMP Black And White Outlines
+### 7_EI_GMP Black And White Outlines (Update 8/5/17)
 + Creating a new image
 + Zooming
 + The Tool Box
@@ -52,7 +52,7 @@ http://www.danantonielli.com/adobe-app-scaling-on-high-dpi-displays-fix/
 + Introducing the pencil tool
 + Using the foreground and background colour
 + Saving your work
-+ Challenge: 3 Monochrome Images
++ Challenge: Draw a smiling face
 
 ### 8_EI_GMP Exporting Your Work
 + What is your image destination?
