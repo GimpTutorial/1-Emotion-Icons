@@ -18,18 +18,27 @@ Here are the lectures of the course for this section...
 + Lots Of Fun :)
 
 ### 2_EI_GMP Section Introduction
-+ Ben and Mike go through what is happening in Section 1
++ We're excited because we know what's coming
++ 8x8 pixels to give you a box to work in
++ Major topics: GIMP, outline, value colour
++ Can't draw? This is an ideal place to start
++ Already an artist? Focus on learning GIMP.
 
 ### 3_EI_GMP Getting GIMP Installed
 + Get GIMP From https://www.gimp.org/
 + Install GIMP
 
 ### 4_EI_GMP How To Share & Ask Questions
++ Use the Udemy Q&A against specific lectures for questions
++ Please Mark Top Answer once resolved, thanks
++ When asking questions help others reproduce your problem
++ Use our discussions forum for sharing your work.
 
 ### 5_EI_GMP Using GIMP At High Resolutions
 
 + Skip if you can see your icons OK
 + For 1440p and higher resolutions
+
 #### Three main options
 + Lower your resolution
 + Different Themes, designed for HiDPI
@@ -89,3 +98,15 @@ http://www.danantonielli.com/adobe-app-scaling-on-high-dpi-displays-fix/
 + Best ones get a guest spot of the forum itself :)
 
 ### 12_EI_GMP Section 1 Wrap Up - Congratulations!
++ Congratulations on your first section!
++ You've made real things, humble beginnings
++ We'll ask you to come back and improve later
++ Please SHARE your set on the forum
++ We'll occasionally upload the best as emoticons.
+
+
+
+
+
+
+
