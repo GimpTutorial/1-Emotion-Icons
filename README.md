@@ -10,6 +10,7 @@ You can download the latest state of this section, or go to **Commits** then dow
 Here are the lectures of the course for this section...
 
 ### 1_EI_GMP Why You Should By This Course
+#### Joint Promo Made for S2 Launch
 + The power of GIMP
 + The challenges of getting started
 + The course is for complete beginners
@@ -103,10 +104,3 @@ http://www.danantonielli.com/adobe-app-scaling-on-high-dpi-displays-fix/
 + We'll ask you to come back and improve later
 + Please SHARE your set on the forum
 + We'll occasionally upload the best as emoticons.
-
-
-
-
-
-
-
