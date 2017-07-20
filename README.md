@@ -9,8 +9,8 @@ You can download the latest state of this section, or go to **Commits** then dow
 ## Lecture List
 Here are the lectures of the course for this section...
 
-### 1_EI_GMP Why You Should By This Course
-#### Joint Promo Made for S2 Launch
+### 1_EI_GMP Why You Should By This Course (Updated 20th July 2017)
+#### Joint Promo Made for S3 Launch
 + The power of GIMP
 + The challenges of getting started
 + The course is for complete beginners
