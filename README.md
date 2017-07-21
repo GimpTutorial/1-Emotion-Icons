@@ -18,7 +18,7 @@ Here are the lectures of the course for this section...
 + Battle proven instructors!
 + Lots Of Fun :)
 
-### 2_EI_GMP Section Introduction
+### 2_EI_GMP Introduction To Section 1
 + We're excited because we know what's coming
 + 8x8 pixels to give you a box to work in
 + Major topics: GIMP, outline, value colour
